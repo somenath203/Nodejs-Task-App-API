@@ -1,6 +1,6 @@
 # Nodejs-Task-App-API
 
-This is a REST API created with the help of express.js. 
+This is a REST API created with the help of Node.js. 
 
 <br />
 
