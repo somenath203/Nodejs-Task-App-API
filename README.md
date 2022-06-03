@@ -18,4 +18,4 @@ This API also has the option of profile picture upload where the user can upload
 
 <br />
 
-Click the link to see the full documentation of the website :- https://documenter.getpostman.com/view/14623339/Uz5FLHDf
+Click the link to see the full documentation of the API :- https://documenter.getpostman.com/view/14623339/Uz5FLHDf
